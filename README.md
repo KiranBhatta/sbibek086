@@ -1,5 +1,8 @@
 ![272043243_3223597481204285_1189710554892436851_n](https://user-images.githubusercontent.com/11883023/150837338-f0c237f0-ce29-4f8b-9c20-c2f34054f79b.jpg)
 
+![image](https://user-images.githubusercontent.com/11883023/150839499-d5b261a0-d03c-4852-9022-e206aac96ff4.png)
+
+
 ### Hi there 👋 I tried a lot to be proficient natives on PHP, React & what not! But finally I confess that developer coding is not that much in my genes, I leave it to born gifted people for that though I occasionally find myself trying on it. So, I switched to AwS Cloud Solutions Architect as it's little lesser about coding & more about system understanding design.   BUT I am GITHUB ENTHUSIASTIC & HARDCORE MAXIMALIST because of its versatility and supersized features.
 
 - 🔭 I’m currently working on https://www.linkedin.com/in/sbibek086
