@@ -12,5 +12,5 @@ I am in GMT +5:45 Timezone. I use Google Calendar and http://worldchatclock.com/
 - 📫 How to reach me: https://meet.google.com/coh-bapv-fqx or if for mutual remote control of PC - anydesk: 673072513
 
 - ⚡ Fun fact: Did you know that this profile ReadMe was created just creating new public repository with the name same as my github handle- in my case sbibek086 as seen in github.com/sbibek086 ,and all this was written in READE.md
-In google calendar, there's a time zone trick. From your main calendar page, hit the ‘s’ key to enter settings and you’ll see an option to set your time zone along with an additional time zone. You can add any time zone you need there. So now your calendar will show the time of day along with the corresponding times for a second time zone.  
+- ⚡ Fun fact: In google calendar, there's a time zone trick. From your main calendar page, hit the ‘s’ key to enter settings and you’ll see an option to set your time zone along with an additional time zone. You can add any time zone you need there. So now your calendar will show the time of day along with the corresponding times for a second time zone.  
 
