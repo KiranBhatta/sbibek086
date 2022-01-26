@@ -1,7 +1,7 @@
 ![272043243_3223597481204285_1189710554892436851_n](https://user-images.githubusercontent.com/11883023/150837338-f0c237f0-ce29-4f8b-9c20-c2f34054f79b.jpg)
 
 ![image](https://user-images.githubusercontent.com/11883023/150847281-192341a7-7ad3-49e4-beb5-0c7934c8eebf.png)
-[my priv keys noteson above img] (https://github.com/sbibek086/Git-and-Github-Guides/issues/3)
+[my priv keys noteson above img](https://github.com/sbibek086/Git-and-Github-Guides/issues/3)
 
 ### Hi there 👋 I tried a lot to be proficient natives on PHP, React & what not! But finally I confess that developer coding is not that much in my genes, I leave it to born gifted people for that though I occasionally find myself trying on it. So, I switched to AwS Cloud Solutions Architect as it's little lesser about coding & more about system understanding design.   BUT I am GITHUB ENTHUSIASTIC & HARDCORE MAXIMALIST because of its versatility and supersized features.
 
@@ -24,5 +24,4 @@ I am in GMT +5:45 Timezone. I use Google Calendar and http://worldchatclock.com/
 
 - 🔒 Just some private infos - https://bit.ly/DoThisRightWays
 
-- 💩 [just my some random ideas or codes or posts or immediate-note-down-of-understood-moments. I ADD FILES button at left bottom to add another gists.]
-   (https://gists.github.com/sbibek086)
+- 💩 [just my some random ideas or codes or posts or immediate-note-down-of-understood-moments. I ADD FILES button at left bottom to add another gists(https://gists.github.com/sbibek086)
