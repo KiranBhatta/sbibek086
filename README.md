@@ -24,4 +24,4 @@ I am in GMT +5:45 Timezone. I use Google Calendar and http://worldchatclock.com/
 
 - 🔒 Just some private infos - https://bit.ly/DoThisRightWays
 
-- 💩 [just my some random ideas or codes or posts or immediate-note-down-of-understood-moments. I ADD FILES button at left bottom to add another gists(https://gists.github.com/sbibek086)
+- 💩 [my random emotional posts or codes or immediate-note-down-of-understood-moments. ADD FILES button at left bottom to add another gists](https://gists.github.com/sbibek086)
