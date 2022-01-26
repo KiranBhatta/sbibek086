@@ -5,7 +5,7 @@
 ### Hi there 👋 I tried a lot to be proficient natives on PHP, React & what not! But finally I confess that developer coding is not that much in my genes, I leave it to born gifted people for that though I occasionally find myself trying on it. So, I switched to AwS Cloud Solutions Architect as it's little lesser about coding & more about system understanding design.   BUT I am GITHUB ENTHUSIASTIC & HARDCORE MAXIMALIST because of its versatility and supersized features.
 
 - 🔭 I’m currently working on https://www.linkedin.com/in/sbibek086
-- 🌱 I’m currently learning, what you can see on issues on https://github.com/sbibek086/Git-and-Github-Guides & https://github.com/sbibek086/DockerKubernetes.CodeSnippets.DevResourceServerLinks. I know journalling on issues is not the standard way as I m in lack of proper better way. Suggest me!
+- 🌱 I’m currently learning, what you can see on issues on https://github.com/sbibek086/Git-and-Github-Guides & https://github.com/sbibek086/DockerKubernetes.CodeSnippets.DevResourceServerLinks. I know journalling on issues is not the standard professional github way. I do not now.
 - 👯 I’m looking to collaborate on https://sbibek086.github.io/write-the-docs/ . THIS IS MY OFFICIAL WEBSITE / BLOG also.
 - 🤔 I’m looking for help with How to collaborate create github page Wiki like community does synergetically- in this case just compiling useful links as this project https://github.com/EbookFoundation/free-programming-books 
 
