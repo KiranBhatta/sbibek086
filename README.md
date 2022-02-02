@@ -14,7 +14,7 @@
 I am in GMT +5:45 Timezone. I use Google Calendar and http://worldchatclock.com/
 - 💬 Ask me about anything that you find useful in my repo.
 
-- 📫 How to reach me: https://meet.google.com/coh-bapv-fqx or if for mutual remote control of PC - anydesk: 673072513
+- 📫 How to reach me: https://meet.google.com/stb-zjnv-ghe or if for mutual remote control of PC - anydesk: 673072513
 
 - 📙 [How to BE OpenSource Warrior](https://opensource.guide/how-to-contribute/)
 - 📙 [Keep Up to Date with Latest Github Resources so, you never miss latest platform Leverage. Sharpen your axe](https://github.blog/)      
