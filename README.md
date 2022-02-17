@@ -26,7 +26,10 @@ I am in GMT +5:45 Timezone. I use Google Calendar and http://worldchatclock.com/
 
 - 🔒 Just some private infos - https://bit.ly/DoThisRightWays [.](https://gists.github.com/sbibek086)
 ---
-Just Random Sticky Notes to feed my eyes
+Just Random Sticky Notes to Self to feed my eyes:
+CAMTASIA RECORD DEV CMD LOGS to ErStha YT for future ref
+
 ![New Bitmap Image](https://user-images.githubusercontent.com/11883023/154558659-47473e40-d7d9-4b45-b346-ec6a309be26a.jpg)
+
 [CheatSheets are great Turbo feeders, I love them](https://www.pinterest.com/saarcblog/jus-myrequirements-devp-cheats/)
 
