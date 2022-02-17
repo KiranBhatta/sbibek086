@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/11883023/150847281-192341a7-7ad3-49e4-beb5-0c7934c8eebf.png)
 [my priv keys noteson above img](https://github.com/sbibek086/Git-and-Github-Guides/issues/3)
-[priv noteson WorkWebsiteGUIs NextNext Like done w YTAnalytics](https://github.com/sbibek086/sbibek086.io/issues/13)
+[priv noteson WorkWebsiteGUIs NextNext Like I did w Gadword](https://github.com/sbibek086/sbibek086.io/issues/13)
 
 ### Hi there 👋 I tried a lot to be proficient natives on PHP, React & what not! But finally I confess that developer coding is not that much in my genes, I leave it to born gifted people for that though I occasionally find myself trying on it. So, I switched to AwS Cloud Solutions Architect as it's little lesser about coding & more about system understanding design.   BUT I am GITHUB ENTHUSIASTIC & HARDCORE MAXIMALIST because of its versatility and supersized features.
 
@@ -25,3 +25,8 @@ I am in GMT +5:45 Timezone. I use Google Calendar and http://worldchatclock.com/
 - ⚡ Fun fact: In google calendar, there's a time zone trick. From your main calendar page, hit the ‘s’ key to enter settings and you’ll see an option to set your time zone along with an additional time zone. You can add any time zone you need there. So now your calendar will show the time of day along with the corresponding times for a second time zone.  
 
 - 🔒 Just some private infos - https://bit.ly/DoThisRightWays [.](https://gists.github.com/sbibek086)
+---
+Just Random Sticky Notes to feed my eyes
+![New Bitmap Image](https://user-images.githubusercontent.com/11883023/154558659-47473e40-d7d9-4b45-b346-ec6a309be26a.jpg)
+[CheatSheets are great Turbo feeders, I love them](https://www.pinterest.com/saarcblog/jus-myrequirements-devp-cheats/)
+
