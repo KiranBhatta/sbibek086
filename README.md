@@ -4,8 +4,7 @@
 [my priv keys noteson above img](https://github.com/sbibek086/Git-and-Github-Guides/issues/3)
 [priv noteson WorkWebsiteGUIs NextNext Like I did w Gadword](https://github.com/sbibek086/sbibek086.io/issues/13)
 
-### Hi there 👋 I tried a lot to be proficient natives on PHP, React & what not! But finally I confess that developer coding is not that much in my genes, I leave it to born gifted people for that though I occasionally find myself trying on it. So, I switched to AwS Cloud Solutions Architect as it's little lesser about coding & more about system understanding design.   BUT I am GITHUB ENTHUSIASTIC & HARDCORE MAXIMALIST because of its versatility and supersized features.
-
+![aaaaaaaaaaaaa](https://user-images.githubusercontent.com/11883023/158073273-9d81f646-516e-4224-8fb2-a66b8d239b48.png)
 - 🔭 I’m currently working on https://www.linkedin.com/in/sbibek086/detail/recent-activity/shares/
 
 - 👯 I’m looking to collaborate on https://sbibek086.github.io/write-the-docs/ . THIS IS MY OFFICIAL WEBSITE / BLOG also.
