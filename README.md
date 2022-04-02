@@ -33,7 +33,8 @@ CAMTASIA RECORD DEV CMD LOGS to ErStha YT for future ref
 DOCKER is My First GoTo when building app or sthg. Below shows WHY HOW :)
 ![1630000439430](https://user-images.githubusercontent.com/11883023/158073344-ded9b3ef-d878-414f-a9c2-6cacbf33e04c.jpg)
 ---
-![ddddd](https://user-images.githubusercontent.com/11883023/161394700-0e65fb14-fb7c-4ea6-82a2-b091d0c96f1c.png)
+![ddddd](https://user-images.githubusercontent.com/11883023/161394976-5e6e4a52-d88d-4c90-aacc-38eb3e8e5527.png)
 ![Screenshot_2022_0402_221427](https://user-images.githubusercontent.com/11883023/161394716-8fa526a0-278e-41f1-a164-9df95fbf948e.png)
+
 [CheatSheets are great Turbo feeders, I love them](https://www.pinterest.com/saarcblog/jus-myrequirements-devp-cheats/)
 
