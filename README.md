@@ -31,7 +31,19 @@ CAMTASIA RECORD DEV CMD LOGS to ErStha YT for future ref
 ![New Bitmap Image](https://user-images.githubusercontent.com/11883023/154558659-47473e40-d7d9-4b45-b346-ec6a309be26a.jpg)
 
 DOCKER is My First GoTo when building app or sthg. Below shows WHY HOW :)
-![1630000439430](https://user-images.githubusercontent.com/11883023/158073344-ded9b3ef-d878-414f-a9c2-6cacbf33e04c.jpg)
+![aaaaaa - Copy](https://user-images.githubusercontent.com/11883023/165359966-7c14c1d7-6922-40ce-b948-238f2f62d1ac.jpg)
+```
+```docker
+docker run -d -e MYSQL_ROOT_PASSWORD=root -e MYSQL_DATABASE=mysite MYSQL_PASSWORD=password --name mysitedb -v "$PWD/database":/var/lib/mysql mysql
+```
+```
+![aaaaaa - Copy - Copy](https://user-images.githubusercontent.com/11883023/165360508-659fa262-9d8e-472f-bbbf-fc92de39130d.jpg)
+```
+docker pull wordpress
+docker run -d -e WORDPRESS_DB_NAME=mysite
+WORDPRESS_DB_USER=mysite
+WORDPRESS_DB_PASSWORD=password --name wordpress --link mysitedb -p 80:80 -v "$PWD/html":/var/www/html_wordpress
+```
 ---
 ![ddddd](https://user-images.githubusercontent.com/11883023/161394976-5e6e4a52-d88d-4c90-aacc-38eb3e8e5527.png)
 ![Screenshot_2022_0402_221427](https://user-images.githubusercontent.com/11883023/161394716-8fa526a0-278e-41f1-a164-9df95fbf948e.png)
