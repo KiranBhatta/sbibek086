@@ -33,7 +33,7 @@ CAMTASIA RECORD DEV CMD LOGS to ErStha YT for future ref
 DOCKER is My First GoTo when building app or sthg. Below shows WHY HOW :)
 ![aaaaaa - Copy](https://user-images.githubusercontent.com/11883023/165359966-7c14c1d7-6922-40ce-b948-238f2f62d1ac.jpg)
 ```
-docker run -d -e MYSQL_ROOT_PASSWORD=root -e MYSQL_DATABASE=mysite MYSQL_PASSWORD=password --name mysitedb -v "$PWD/database":/var/lib/mysql mysql
+docker run -d -e MYSQL_ROOT_PASSWORD=root -e MYSQL_DATABASE=mysite -e MYSQL_PASSWORD=password --name mysitedb -v "$PWD/database":/var/lib/mysql mysql
 ```
 ![aaaaaa - Copy - Copy](https://user-images.githubusercontent.com/11883023/165360508-659fa262-9d8e-472f-bbbf-fc92de39130d.jpg)
 ```
