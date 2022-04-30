@@ -35,12 +35,11 @@ DOCKER is My First GoTo when building app or sthg. Below shows WHY HOW :)
 ```
 docker run -d -e MYSQL_ROOT_PASSWORD=root -e MYSQL_DATABASE=mysite -e MYSQL_PASSWORD=password --name mysitedb -v "$PWD/database":/var/lib/mysql mysql
 ```
-![aaaaaa - Copy - Copy](https://user-images.githubusercontent.com/11883023/165360508-659fa262-9d8e-472f-bbbf-fc92de39130d.jpg)
+![bbbbbbbbbb - Copy](https://user-images.githubusercontent.com/11883023/166107516-01127140-4cd2-4ece-8268-7849da2f4200.jpg)
+
 ```
 docker pull wordpress
-docker run -d -e WORDPRESS_DB_NAME=mysite
-WORDPRESS_DB_USER=mysite
-WORDPRESS_DB_PASSWORD=password --name wordpress --link mysitedb -p 80:80 -v "$PWD/html":/var/www/html_wordpress
+docker run -d -e WORDPRESS_DB_NAME=mysite -e WORDPRESS_DB_USER=mysite -e WORDPRESS_DB_PASSWORD=password --name wordpress --link mysitedb -p 80:80 -v "$PWD/html":/var/www/html wordpress
 ```
 ---
 ![ddddd](https://user-images.githubusercontent.com/11883023/161394976-5e6e4a52-d88d-4c90-aacc-38eb3e8e5527.png)
