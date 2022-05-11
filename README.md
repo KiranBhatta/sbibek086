@@ -1,4 +1,6 @@
-![272043243_3223597481204285_1189710554892436851_n](https://user-images.githubusercontent.com/11883023/150837338-f0c237f0-ce29-4f8b-9c20-c2f34054f79b.jpg)
+![About Terminals Filepaths](https://user-images.githubusercontent.com/11883023/167839233-a5f7548e-7b60-446b-9cfa-c2a584591617.jpg)
+
+![Buddha Zen](https://user-images.githubusercontent.com/11883023/150837338-f0c237f0-ce29-4f8b-9c20-c2f34054f79b.jpg)
 
 ![About Git](https://user-images.githubusercontent.com/11883023/150847281-192341a7-7ad3-49e4-beb5-0c7934c8eebf.png)
 [my priv keys noteson above img](https://github.com/sbibek086/Git-and-Github-Guides/issues/3)
