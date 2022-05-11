@@ -1,4 +1,4 @@
-![About Terminals Filepaths](https://user-images.githubusercontent.com/11883023/167839233-a5f7548e-7b60-446b-9cfa-c2a584591617.jpg)
+![Terminals Filepaths](https://user-images.githubusercontent.com/11883023/167841841-76ea9dd9-9351-4bba-994a-18cdf03db67f.jpg)
 
 ![Buddha Zen](https://user-images.githubusercontent.com/11883023/150837338-f0c237f0-ce29-4f8b-9c20-c2f34054f79b.jpg)
 
