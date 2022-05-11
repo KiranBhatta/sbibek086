@@ -4,7 +4,7 @@
 [my priv keys noteson above img](https://github.com/sbibek086/Git-and-Github-Guides/issues/3)
 [priv noteson WorkWebsiteGUIs NextNext Like I did w Gadword](https://github.com/sbibek086/sbibek086.io/issues/13)
 
-![aaaaaaaaaaaaa](https://user-images.githubusercontent.com/11883023/158073273-9d81f646-516e-4224-8fb2-a66b8d239b48.png)
+![New Bitmap Image](https://user-images.githubusercontent.com/11883023/167792279-fc5b9283-4388-4c76-9438-80e406c1c627.jpg)
 [YML- how2write-GoHere](https://sbibek086.github.io/write-the-docs/2022-04-30-YML-HowToWrite-ItsA2Zusage.html)
 - 🔭 I’m currently working on https://www.linkedin.com/in/sbibek086/detail/recent-activity/shares/
 
