@@ -30,8 +30,6 @@ I am in GMT +5:45 Timezone. I use Google Calendar and http://worldchatclock.com/
 Just Random Sticky Notes to Self to feed my eyes:
 CAMTASIA RECORD DEV CMD LOGS to ErStha YT for future ref
 
-![New Bitmap Image](https://user-images.githubusercontent.com/11883023/154558659-47473e40-d7d9-4b45-b346-ec6a309be26a.jpg)
-
 DOCKER is My First GoTo when building app or sthg. Below shows WHY HOW :)
 ![aaaaaa - Copy](https://user-images.githubusercontent.com/11883023/165359966-7c14c1d7-6922-40ce-b948-238f2f62d1ac.jpg)
 ```
