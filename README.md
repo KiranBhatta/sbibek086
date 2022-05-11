@@ -4,8 +4,8 @@
 [my priv keys noteson above img](https://github.com/sbibek086/Git-and-Github-Guides/issues/3)
 [priv noteson WorkWebsiteGUIs NextNext Like I did w Gadword](https://github.com/sbibek086/sbibek086.io/issues/13)
 
-![New Bitmap Image](https://user-images.githubusercontent.com/11883023/167792279-fc5b9283-4388-4c76-9438-80e406c1c627.jpg)
-[YML- how2write-GoHere](https://sbibek086.github.io/write-the-docs/2022-04-30-YML-HowToWrite-ItsA2Zusage.html)
+![New Bitmap Image](https://user-images.githubusercontent.com/11883023/167794378-48846916-71a0-4f31-8d47-6bfd8c9afe19.jpg)
+
 - 🔭 I’m currently working on https://www.linkedin.com/in/sbibek086/detail/recent-activity/shares/
 
 - 👯 I’m looking to collaborate on https://sbibek086.github.io/write-the-docs/ . THIS IS MY OFFICIAL WEBSITE / BLOG also.
@@ -42,6 +42,7 @@ docker run -d -e MYSQL_ROOT_PASSWORD=root -e MYSQL_DATABASE=mysite -e MYSQL_PASS
 docker pull wordpress
 docker run -d -e WORDPRESS_DB_NAME=mysite -e WORDPRESS_DB_USER=mysite -e WORDPRESS_DB_PASSWORD=password --name wordpress --link mysitedb -p 80:80 -v "$PWD/html":/var/www/html wordpress
 ```
+[Do all this wholesome in DockerCompose.yml way](https://sbibek086.github.io/write-the-docs/2022-04-30-YML-HowToWrite-ItsA2Zusage.html)
 ---
 ![ddddd](https://user-images.githubusercontent.com/11883023/161394976-5e6e4a52-d88d-4c90-aacc-38eb3e8e5527.png)
 ![Screenshot_2022_0402_221427](https://user-images.githubusercontent.com/11883023/161394716-8fa526a0-278e-41f1-a164-9df95fbf948e.png)
