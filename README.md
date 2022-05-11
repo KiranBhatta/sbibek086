@@ -1,10 +1,11 @@
 ![272043243_3223597481204285_1189710554892436851_n](https://user-images.githubusercontent.com/11883023/150837338-f0c237f0-ce29-4f8b-9c20-c2f34054f79b.jpg)
 
-![image](https://user-images.githubusercontent.com/11883023/150847281-192341a7-7ad3-49e4-beb5-0c7934c8eebf.png)
+![About Git](https://user-images.githubusercontent.com/11883023/150847281-192341a7-7ad3-49e4-beb5-0c7934c8eebf.png)
 [my priv keys noteson above img](https://github.com/sbibek086/Git-and-Github-Guides/issues/3)
 [priv noteson WorkWebsiteGUIs NextNext Like I did w Gadword](https://github.com/sbibek086/sbibek086.io/issues/13)
 
-![New Bitmap Image](https://user-images.githubusercontent.com/11883023/167794378-48846916-71a0-4f31-8d47-6bfd8c9afe19.jpg)
+![VScode](https://user-images.githubusercontent.com/11883023/167818448-58635e50-a442-4ee3-97f4-17c16cd2ad39.jpg)
+![Bibek About me JSON](https://user-images.githubusercontent.com/11883023/167794378-48846916-71a0-4f31-8d47-6bfd8c9afe19.jpg)
 
 - 🔭 I’m currently working on https://www.linkedin.com/in/sbibek086/detail/recent-activity/shares/
 
