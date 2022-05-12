@@ -1,12 +1,9 @@
-![Terminals Filepaths](https://user-images.githubusercontent.com/11883023/167841841-76ea9dd9-9351-4bba-994a-18cdf03db67f.jpg)
-
 ![Buddha Zen](https://user-images.githubusercontent.com/11883023/150837338-f0c237f0-ce29-4f8b-9c20-c2f34054f79b.jpg)
 
 ![About Git](https://user-images.githubusercontent.com/11883023/150847281-192341a7-7ad3-49e4-beb5-0c7934c8eebf.png)
 [my priv keys noteson above img](https://github.com/sbibek086/Git-and-Github-Guides/issues/3)
 [priv noteson WorkWebsiteGUIs NextNext Like I did w Gadword](https://github.com/sbibek086/sbibek086.io/issues/13)
 
-![VScode](https://user-images.githubusercontent.com/11883023/167818448-58635e50-a442-4ee3-97f4-17c16cd2ad39.jpg)
 ![Bibek About me JSON](https://user-images.githubusercontent.com/11883023/167794378-48846916-71a0-4f31-8d47-6bfd8c9afe19.jpg)
 
 - 🔭 I’m currently working on https://www.linkedin.com/in/sbibek086/detail/recent-activity/shares/
@@ -44,9 +41,46 @@ docker pull wordpress
 docker run -d -e WORDPRESS_DB_NAME=mysite -e WORDPRESS_DB_USER=mysite -e WORDPRESS_DB_PASSWORD=password --name wordpress --link mysitedb -p 80:80 -v "$PWD/html":/var/www/html wordpress
 ```
 [Do all this wholesome in DockerCompose.yml way](https://sbibek086.github.io/write-the-docs/2022-04-30-YML-HowToWrite-ItsA2Zusage.html)
+
 ---
-![ddddd](https://user-images.githubusercontent.com/11883023/161394976-5e6e4a52-d88d-4c90-aacc-38eb3e8e5527.png)
-![Screenshot_2022_0402_221427](https://user-images.githubusercontent.com/11883023/161394716-8fa526a0-278e-41f1-a164-9df95fbf948e.png)
+![about api sdk](https://user-images.githubusercontent.com/11883023/161394976-5e6e4a52-d88d-4c90-aacc-38eb3e8e5527.png)
 
+![VScode](https://user-images.githubusercontent.com/11883023/167818448-58635e50-a442-4ee3-97f4-17c16cd2ad39.jpg)
+
+![about Frameworks libraries](https://user-images.githubusercontent.com/11883023/161394716-8fa526a0-278e-41f1-a164-9df95fbf948e.png)
+
+![Terminals Filepaths](https://user-images.githubusercontent.com/11883023/167841841-76ea9dd9-9351-4bba-994a-18cdf03db67f.jpg)
+[priv notes on above filepaths dilemma](https://github.com/sbibek086/Git-and-Github-Guides/issues/4)
+---
+|**I am Markdown** | *Click* ~~pen~~ pencil icon in this README in new tab|
+|  --------------------|---------------------------------------------------------------|
+|to see `whats written to produce this effect` | & more of other markdowns effect in this README|
+| In case of numbering & bulleting style markdown|                        |
+|1. numbered                                                         |                      |
+|2. if just Enter, numbering will simply populate to 2 |                  |
+|double enter to destroy it. same with - |                    |
+|`Markdowns are supported in` | `not only this README, but also in wikis, gist, issue, PR comments etc` |
+| `to find out where its supported` | simply look if `M!` symbol exists at bottom right corner |
+| just ignore 100  other fancy BS markdowns | I DONT need it |
+| tiny enter, tab can have drastic | effect on markdown, take care |
+
+- [ ] for todos not completed
+- [X] for todos completed 
+
+Below JS is syntax highlighted. find how, simply clicking edit.
+```javascript
+// program to validate an email address
+function validateEmail(email_id) {
+    const regex_pattern =      /^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+    
+    if (regex_pattern.test(email_id)) {
+        console.log('The email address is valid');
+    }
+    else {
+        console.log('The email address is not valid');
+    }
+}
+validateEmail('abc123@gmail.com');
+validateEmail('hello@com');
+```
 [CheatSheets are great Turbo feeders, I love them](https://www.pinterest.com/saarcblog/jus-myrequirements-devp-cheats/)
-
