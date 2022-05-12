@@ -6,11 +6,9 @@
 
 ![Bibek About me JSON](https://user-images.githubusercontent.com/11883023/167794378-48846916-71a0-4f31-8d47-6bfd8c9afe19.jpg)
 
-- 🔭 I’m currently working on https://www.linkedin.com/in/sbibek086/detail/recent-activity/shares/
+- 🔭 I’m currently working on https://www.linkedin.com/in/sbibek086/detail/recent-activity/shares/ and MY OFFICIaL BLOG is https://sbibek086.github.io/write-the-docs/
 
-- 👯 I’m looking to collaborate on https://sbibek086.github.io/write-the-docs/ . THIS IS MY OFFICIAL WEBSITE / BLOG also.
-
-- 🤔 I’m looking for help with How to collaborate create github page Wiki like community does synergetically- in this case just compiling useful links as this project https://github.com/EbookFoundation/free-programming-books 
+- 👯 I’m looking to collaborate on https://github.com/sbibek086/Git-and-Github-Guides
 
 I am in GMT +5:45 Timezone. I use Google Calendar and http://worldchatclock.com/
 - 💬 Ask me about anything that you find useful in my repo.
