@@ -1,28 +1,30 @@
 ![Buddha Zen](https://user-images.githubusercontent.com/11883023/150837338-f0c237f0-ce29-4f8b-9c20-c2f34054f79b.jpg)
 
 ![About Git](https://user-images.githubusercontent.com/11883023/150847281-192341a7-7ad3-49e4-beb5-0c7934c8eebf.png)
-[my priv keys noteson above img](https://github.com/sbibek086/Git-and-Github-Guides/issues/3)
-[priv noteson WorkWebsiteGUIs NextNext Like I did w Gadword](https://github.com/sbibek086/sbibek086.io/issues/13)
 
 ![Bibek About me JSON](https://user-images.githubusercontent.com/11883023/167794378-48846916-71a0-4f31-8d47-6bfd8c9afe19.jpg)
 
-- 🔭 I’m currently working on https://www.linkedin.com/in/sbibek086/detail/recent-activity/shares/ and MY OFFICIaL BLOG is https://sbibek086.github.io/write-the-docs/
+- 🔭 I’m currently working on https://www.linkedin.com/in/sbibek086/detail/recent-activity/shares/
 
-- 👯 I’m looking to collaborate on https://github.com/sbibek086/Git-and-Github-Guides
+- MY OFFICIAL WEBSITE BLOG is https://sbibek086.github.io/write-the-docs/
 
-I am in GMT +5:45 Timezone. I use Google Calendar and http://worldchatclock.com/
+ I am in GMT +5:45 Timezone. I use Google Calendar and http://worldchatclock.com/
 - 💬 Ask me about anything that you find useful in my repo.
 
 - 📫 How to reach me: https://meet.google.com/stb-zjnv-ghe or if for mutual remote control of PC - anydesk: 673072513
 
-- 📙 [How to BE OpenSource Warrior](https://opensource.guide/how-to-contribute/)
+- 📙 [How to BE OpenSource Heroes](https://opensource.guide/how-to-contribute/)
 - 📙 [Keep Up to Date with Latest Github Resources so, you never miss latest platform Leverage. Sharpen your axe](https://github.blog/)    
-- 📙 [1st Sharpen axe here](https://docs.github.com/en/communities)  
+- 📙 [1st Sharpen Ope Source Skills here](https://docs.github.com/en/communities)  
+
+**Now that you read above Open Source Docus, lets begin actually open-sourcing skills in our hugely popular https://github.com/sbibek086/Git-and-Github-Guides .Even submitting Pull Request of minor spelling correction counts or major contributions like submitting new chapter are welcomed and merged by managers in this repo.**
+![OPen-source-invitation-foto](https://user-images.githubusercontent.com/11883023/168205844-fab475cf-f632-4eff-89a1-a07b54f10ce8.png)
 
 - ⚡ Fun fact: Did you know that this profile ReadMe was created just creating new public repository with the name same as my github handle- in my case sbibek086 as seen in github.com/sbibek086 ,and all this was written in READE.md
 - ⚡ Fun fact: In google calendar, there's a time zone trick. From your main calendar page, hit the ‘s’ key to enter settings and you’ll see an option to set your time zone along with an additional time zone. You can add any time zone you need there. So now your calendar will show the time of day along with the corresponding times for a second time zone.  
 
 - 🔒 Just some private infos - https://bit.ly/DoThisRightWays [.](https://gist.github.com/sbibek086/d7b400fb94f250b23fa8ea306de87f68#comments)
+                             - [priv noteson WorkWebsiteGUIs NextNext Like I did w Gads](https://github.com/sbibek086/sbibek086.io/issues/13)
 ---
 Just Random Sticky Notes to Self to feed my eyes:
 CAMTASIA RECORD DEV CMD LOGS to ErStha YT for future ref
