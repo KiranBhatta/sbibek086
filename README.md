@@ -2,7 +2,8 @@
 
 ![Untitled](https://user-images.githubusercontent.com/11883023/175775284-1f9a7747-7960-4efe-856f-d0eb41ea2afa.png)
 - 📙 [VScode Terminals Awesome!](https://code.visualstudio.com/docs/editor/integrated-terminal)
-![VScode](https://user-images.githubusercontent.com/11883023/167818448-58635e50-a442-4ee3-97f4-17c16cd2ad39.jpg)
+
+![vscodee](https://user-images.githubusercontent.com/11883023/175775728-f8303767-1256-4397-b69a-702270d0f0d6.jpg)
 - 📙 [VScode makes life easier](https://code.visualstudio.com/docs/getstarted/tips-and-tricks#vscode)
 
 ![About-Bibek](https://user-images.githubusercontent.com/11883023/170458925-cb1673ac-f378-4e99-9369-9b4a5712abf3.jpg)
