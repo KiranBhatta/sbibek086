@@ -83,4 +83,5 @@ function validateEmail(email_id) {
 validateEmail('abc123@gmail.com');
 validateEmail('hello@com');
 ```
+![Untitledddddddddd](https://user-images.githubusercontent.com/11883023/175766509-d08b73eb-c2fd-4898-8d2b-92f994384dba.png)
 [CheatSheets are great Turbo feeders, I love them](https://www.pinterest.com/saarcblog/jus-myrequirements-devp-cheats/)
