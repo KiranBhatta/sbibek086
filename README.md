@@ -1,6 +1,9 @@
 ![Buddha Zen](https://user-images.githubusercontent.com/11883023/150837338-f0c237f0-ce29-4f8b-9c20-c2f34054f79b.jpg)
 
-![About Git](https://user-images.githubusercontent.com/11883023/150847281-192341a7-7ad3-49e4-beb5-0c7934c8eebf.png)
+![Untitled](https://user-images.githubusercontent.com/11883023/175775284-1f9a7747-7960-4efe-856f-d0eb41ea2afa.png)
+- 📙 [VScode Terminals Awesome!](https://code.visualstudio.com/docs/editor/integrated-terminal)
+![VScode](https://user-images.githubusercontent.com/11883023/167818448-58635e50-a442-4ee3-97f4-17c16cd2ad39.jpg)
+- 📙 [VScode makes life easier](https://code.visualstudio.com/docs/getstarted/tips-and-tricks#vscode)
 
 ![About-Bibek](https://user-images.githubusercontent.com/11883023/170458925-cb1673ac-f378-4e99-9369-9b4a5712abf3.jpg)
 
@@ -15,7 +18,7 @@
 
 - 📙 [How to BE OpenSource Heroes](https://opensource.guide/how-to-contribute/)
 - 📙 [Keep Up to Date with Latest Github Resources so, you never miss latest platform Leverage. Sharpen your axe](https://github.blog/)    
-- 📙 [1st Sharpen Ope Source Skills here](https://docs.github.com/en/communities)  
+- 📙 [1st Sharpen Open Source Skills here](https://docs.github.com/en/communities)  
 
 **Now that you read above Open Source Docus, lets begin actually open-sourcing skills in our hugely popular https://github.com/sbibek086/Git-and-Github-Guides .Even submitting Pull Request of minor spelling correction counts or major contributions like submitting new chapter are welcomed and merged by managers in this repo.**
 ![OPen-source-invitation-foto](https://user-images.githubusercontent.com/11883023/168205844-fab475cf-f632-4eff-89a1-a07b54f10ce8.png)
@@ -44,8 +47,6 @@ docker run -d -e WORDPRESS_DB_NAME=mysite -e WORDPRESS_DB_USER=mysite -e WORDPRE
 
 ---
 ![about api sdk](https://user-images.githubusercontent.com/11883023/161394976-5e6e4a52-d88d-4c90-aacc-38eb3e8e5527.png)
-
-![VScode](https://user-images.githubusercontent.com/11883023/167818448-58635e50-a442-4ee3-97f4-17c16cd2ad39.jpg)
 
 ![about Frameworks libraries](https://user-images.githubusercontent.com/11883023/161394716-8fa526a0-278e-41f1-a164-9df95fbf948e.png)
 
