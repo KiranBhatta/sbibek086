@@ -22,7 +22,7 @@
 - 📙 [1st Sharpen Open Source Skills here](https://docs.github.com/en/communities)  
 
 **Now that you read above Open Source Docus, lets begin actually open-sourcing skills in our hugely popular https://github.com/sbibek086/Git-and-Github-Guides .Even submitting Pull Request of minor spelling correction counts or major contributions like submitting new chapter are welcomed and merged by managers in this repo.**
-![OPen-source-invitation-foto](https://user-images.githubusercontent.com/11883023/168205844-fab475cf-f632-4eff-89a1-a07b54f10ce8.png)
+![image](https://user-images.githubusercontent.com/11883023/188381450-70e2ec29-3858-497f-aaba-4ce05dd77ff5.png)
 
 - ⚡ Fun fact: Did you know that this profile ReadMe was created just creating new public repository with the name same as my github handle- in my case sbibek086 as seen in github.com/sbibek086 ,and all this was written in READE.md
 - ⚡ Fun fact: In google calendar, there's a time zone trick. From your main calendar page, hit the ‘s’ key to enter settings and you’ll see an option to set your time zone along with an additional time zone. You can add any time zone you need there. So now your calendar will show the time of day along with the corresponding times for a second time zone.  
