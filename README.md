@@ -34,11 +34,12 @@ Just Random Sticky Notes to Self to feed my eyes:
 CAMTASIA RECORD DEV CMD LOGS to ErStha YT for future ref
 
 DOCKER is My First GoTo when building app or sthg. Below shows WHY HOW :)
-![aaaaaa - Copy](https://user-images.githubusercontent.com/11883023/165359966-7c14c1d7-6922-40ce-b948-238f2f62d1ac.jpg)
+![docker1](https://user-images.githubusercontent.com/11883023/192002006-b2bc08ba-45e0-4765-b9bf-40ab23bd7c74.png)
+
 ```
 docker run -d -e MYSQL_ROOT_PASSWORD=root -e MYSQL_DATABASE=mysite -e MYSQL_PASSWORD=password --name mysitedb -v "$PWD/database":/var/lib/mysql mysql
 ```
-![bbbbbbbbbb - Copy](https://user-images.githubusercontent.com/11883023/166107791-cd87fdd5-0f18-4998-9b4e-027fcb712fa9.jpg)
+![docker2](https://user-images.githubusercontent.com/11883023/192002125-893e6b7e-eaf9-4f3e-a16d-b5e5a70b3fe7.png)
 
 ```
 docker pull wordpress
